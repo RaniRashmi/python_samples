@@ -1,0 +1,6 @@
+name = "Alex"  # Variable to store the name (String)
+age = 30         # Variable to store the age       (Integer)
+city = "New York" # Variable to store the city (String)
+price = 100.5    # Variable to store the price (float)
+is_student = False # Variable to store if the person is a student (Boolean)
+print(f"{name}, {age}, {city}, {price}, {is_student}")
