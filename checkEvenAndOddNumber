@@ -1,0 +1,7 @@
+def isEvenOrOddNumber(num) :
+    if num%2 == 0 :
+        return str(num) + " Even number"
+    else :
+        return str(num) + " odd number"
+    
+print(isEvenOrOddNumber(4))    
